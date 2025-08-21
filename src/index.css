@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+body,
+html {
+  background: linear-gradient(rgb(7, 7, 7), rgb(0, 0, 0));
+  font-family: "Bebas Neue", sans-serif;
+}
